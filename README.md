@@ -42,8 +42,6 @@ npm run build --report
 
     |    |- main.js 主的入口js文件
 
-    |    |- Weixin.scss 如果做微网站的入口vue组件的样式
-
     |    |- Weixin.vue 如果做微网站的入口vue组件
 
     |- 代码规范.txt  代码规范

@@ -6,7 +6,6 @@ import Weixin from './Weixin';
 import router from './router';
 require('./lib/lib-flexible.js');
 require('./scss/main.scss');
-require('./weixin.scss');
 
 Vue.config.productionTip = false
 
