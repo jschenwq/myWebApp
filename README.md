@@ -50,7 +50,9 @@ npm run build --report
 
     |- package.json  npm包配置json
 
-    |- gulpfile   gulp文件
+    |- index.html   主页的index.html
+
+
 ```
 
 For detailed explanation on how things work, checkout the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
