@@ -2,19 +2,19 @@
 
 > A Vue.js project
 
-## Build Setup
+## 项目打包启动步骤
 
 ``` bash
-# install dependencies
+# 安装包
 npm install
 
-# serve with hot reload at localhost:8080
+# 项目启动可以热更新  localhost:8080
 npm run dev
 
-# build for production with minification
+# 打包压缩
 npm run build
 
-# build for production and view the bundle analyzer report
+# 打包压缩分析报告
 npm run build --report
 ```
 
