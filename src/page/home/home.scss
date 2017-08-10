@@ -1,0 +1,22 @@
+@charset "utf-8";
+@import "../.././scss/mixin";
+
+.hello_tem{
+  display: inline-block;
+  .swiper-container{
+    .swiper-slide{
+      //text-align: center;22
+      img{
+        @include px2rem(height, 400px);
+        @include px2rem(width, 750px);
+      }
+      div{
+        font-family: "SimSuni" !important;
+        @include px2rem(width, 750px);
+        text-align: center;
+        @include font-dpr(40px);
+        color: #333;
+      }
+    }
+  }
+}

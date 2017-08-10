@@ -1,13 +1,5 @@
 <template>
   <div id="app">
-    <header id="test">
-    header
-    </header>
-    <span id="hello">
-
-      <div>divaa</div>
-    </span>
-
     <div id="module">
       <router-view></router-view>
     </div>
