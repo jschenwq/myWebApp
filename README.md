@@ -21,7 +21,6 @@ npm run build --report
 ## 二 项目打包启动步骤
 
 ``` bash
-二，项目目录结构
 
     |- build webpack打包配置文件夹
 
@@ -40,6 +39,12 @@ npm run build --report
     |    |- scss 共同样式scss
 
     |    |- App.vue 如果做pc端网站的入口vue组件
+
+    |    |- main.js 主的入口js文件
+
+    |    |- Weixin.scss 如果做微网站的入口vue组件的样式
+
+    |    |- Weixin.vue 如果做微网站的入口vue组件
 
     |- 代码规范.txt  代码规范
 

@@ -7,8 +7,13 @@
         </swiper-slide>
         <!--<div class="swiper-pagination" slot="pagination"></div>-->
       </swiper>
-      <ul>
-
+      <ul class="product">
+        <li>
+          <img v-bind:src="imgUrl"/>
+        </li>
+        <li></li>
+        <li></li>
+        <li></li>
       </ul>
   </div>
 </template>
